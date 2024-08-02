@@ -1,5 +1,5 @@
 /*
- 🔥 APP: Weather App
+ ⛈️ APP: Weather App
 
  These are the promises you'll need to create
  =============================================
@@ -121,7 +121,7 @@ const getDirection = deg => {
  * Update each DOM element with the API data
  */
 const updateDom = data => {
-  console.log('🔥 updating', data)
+  console.log('⛈️ updating', data)
   // Current temperature
   currentTemperature.innerText = data[0].main.temp.toFixed(1)
 
