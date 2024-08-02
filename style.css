@@ -234,7 +234,11 @@
   .sunIcon {
     margin-right: 1.2rem;
     font-size: 1.2rem;
-    color: yellow; /* Add this line to change the color */
+  }
+
+  /* Add this new rule at the end or in the relevant section */
+  .sunIconYellow {
+    color: yellow;
   }
   
   .col {
