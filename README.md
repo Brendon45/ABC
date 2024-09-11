@@ -41,3 +41,9 @@ Interested in improving WeatherApp? You’re welcome to contribute! Fork the rep
 Stay ahead of the weather with WeatherApp and make informed decisions every day.
 
 ## Author ✍️
+
+Brendon Jeje | [LinkTree](https://linktr.ee/brendonjeje), [Linkedin](https://www.linkedin.com/in/brendonjeje/) && [Twitter](https://twitter.com/brendon4545).
+
+## License
+
+- This project is licensed under the *MIT* License. See the [LICENSE.md](LICENSE.md) file for details.
