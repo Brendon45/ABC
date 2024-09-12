@@ -1,0 +1,1 @@
+# Uploading images for the WeatherApp
