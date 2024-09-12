@@ -1,6 +1,6 @@
 # WeatherApp ⛈️
 
-Welcome to __WeatherApp__, your go-to source for real-time weather updates. Whether you need to check the current temperature, wind speed, or sunrise and sunset times, this app provides accurate and intuitive weather data to keep you prepared.
+Welcome to [WeatherApp](https://brendon45.github.io/WeatherApp/), your go-to source for real-time weather updates. Whether you need to check the current temperature, wind speed, or sunrise and sunset times, this app provides accurate and intuitive weather data to keep you prepared.
 
 ## Key Features
 
