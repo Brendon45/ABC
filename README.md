@@ -34,6 +34,8 @@ Stay ahead of the weather with __WeatherApp__ and make informed decisions every 
 
 ![SHOWCASE](https://github.com/Brendon45/WeatherApp/blob/af13567c5e356be0ee296c790639fb0da8260aa6/Descrption/images/weatherApp.jpg)
 
+*The image above shows the __WeatherApp__ in action, providing real-time weather data such as temperature, wind speed, and humidity. It also displays the hourly temperature forecast and sunrise/sunset times, making it easy to stay updated and plan your day*.
+
 ## Author ✍️
 
 Brendon Jeje | [LinkTree](https://linktr.ee/brendonjeje), [Linkedin](https://www.linkedin.com/in/brendonjeje/) && [Twitter](https://twitter.com/brendon4545).
