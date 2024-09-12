@@ -30,6 +30,10 @@ Interested in improving WeatherApp? You’re welcome to contribute! Fork the rep
 
 Stay ahead of the weather with __WeatherApp__ and make informed decisions every day.
 
+## App Preview
+
+![SHOWCASE](https://github.com/Brendon45/WeatherApp/blob/af13567c5e356be0ee296c790639fb0da8260aa6/Descrption/images/weatherApp.jpg)
+
 ## Author ✍️
 
 Brendon Jeje | [LinkTree](https://linktr.ee/brendonjeje), [Linkedin](https://www.linkedin.com/in/brendonjeje/) && [Twitter](https://twitter.com/brendon4545).
